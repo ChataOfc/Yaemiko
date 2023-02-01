@@ -1,0 +1,5 @@
+let handler =  m => m.reply(`          *Halo Kak*\n\nSc Ini Di Jual Seharga 40k Jika Minat Chat Nomor Di Bawah Dan Setujui S&K Dari Owner!\nNomor : http://wa.me/6289519526587`.trim()) // Tambah sendiri kalo mau
+handler.customPrefix = /^(gx)$/i
+handler.command = new RegExp
+
+export default handler
