@@ -1,75 +1,75 @@
 <p align="center">
-    <img src="https://telegra.ph/file/4bcad8eb70af16e75aaba.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/f5f9587a03915b487c56f.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">KannaBOT - MD - V2</h1>
+<h1 align="center">YaeMiko - MD</h1>
 <p align="center">
-  <a href="https://github.com/Jikarinka"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Kanna+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Letta;Re-Recode+By+Jikarinka;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+  <a href="https://github.com/ChataOfc"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=YaeMiko+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Okta;Re-Recode+By+Jikarinka;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
 <p align="center">
- <a href="#"><img title="KannaBOT" src="https://img.shields.io/badge/Kanna BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="YaeMiko" src="https://img.shields.io/badge/YaeMiko-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Jikarinka"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Kanna-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/ChataOfc"><img title="Author" src="https://img.shields.io/badge/AUTHOR-YaeMiko-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6285334930628">
+  <a href="https://wa.me/6285731947500">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@kyo.tang">
+  <a href="https://www.tiktok.com/">
     <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/kontol_elite/">
+  <a href="https://www.instagram.com/OktaModz">
     <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto: papamamaakupulang@gmail.com">
+  <a href="mailto: zyyyzeus@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 ---------
 
-## ```Whatsapp``` <a href="https://wa.me/6285334930628"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281336990781) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285334930628) 
-[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/FF1Bd1U0FHu42rfz6uplbn) 
+## ```Whatsapp``` <a href="https://wa.me/6285731947500"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285749543572) 
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285731947500) 
+[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JVQ60oSsvJ1CtscEwmtXzk) 
 ---------
 
 #### KELEBIHAN 📍
 | Kelebihan | Check |
 |--------|--------|
-| **Fast Respon** |[✔️](https://github.com/Jikarinka) |
-| **No Internet** |[✔️](https://github.com/Jikarinka) |
-| **Simple** |[✔️](https://github.com/Jikarinka) |
-| **Button template** |[✔️](https://github.com/Jikarinka) |
-| **Multi Device** |[✔️](https://github.com/Jikarinka) |
+| **Fast Respon** |[✔️](https://github.com/ChataOfc) |
+| **No Internet** |[✔️](https://github.com/ChataOfc) |
+| **Simple** |[✔️](https://github.com/ChataOfc) |
+| **Button template** |[✔️](https://github.com/ChataOfc |
+| **Multi Device** |[✔️](https://github.com/ChataOfc) |
 ---------
 #### FITUR 📍
 | Fitur | Check |
 |--------|--------|
-| **Downloader** |[✔️](https://github.com/Jikarinka) |
-| **Internet** |[✔️](https://github.com/Jikarinka) |
-| **Game Rpg** |[✔️](https://github.com/Jikarinka) |
-| **Nsfw** |[✔️](https://github.com/Jikarinka) |
-| **Sticker** |[✔️](https://github.com/Jikarinka) |
-| **Game** |[✔️](https://github.com/Jikarinka) |
-| **Kerang Ajaib** |[✔️](https://github.com/Jikarinka) |
-| **Quotes** |[✔️](https://github.com/Jikarinka) |
-| **Anime** |[✔️](https://github.com/Jikarinka) |
-| **Premium** |[✔️](https://github.com/Jikarinka) |
-| **Tools** |[✔️](https://github.com/Jikarinka) |
-| **Exec** |[✔️](https://github.com/Jikarinka) |
-| **React** |[✔️](https://github.com/Jikarinka) |
+| **Downloader** |[✔️](https://github.com/ChataOfc) |
+| **Internet** |[✔️](https://github.com/ChataOfc) |
+| **Game Rpg** |[✔️](https://github.com/ChataOfc) |
+| **Nsfw** |[✔️](https://github.com/ChataOfc) |
+| **Sticker** |[✔️](https://github.com/ChataOfc) |
+| **Game** |[✔️](https://github.com/ChataOfc) |
+| **Kerang Ajaib** |[✔️](https://github.com/ChataOfc) |
+| **Quotes** |[✔️](https://github.com/ChataOfc) |
+| **Anime** |[✔️](https://github.com/ChataOfc) |
+| **Premium** |[✔️](https://github.com/ChataOfc) |
+| **Tools** |[✔️](https://github.com/ChataOfc) |
+| **Exec** |[✔️](https://github.com/ChataOfc) |
+| **React** |[✔️](https://github.com/ChataOfc) |
 ---------
 
 ## `SETTING`
 
-- Owner Number [Here](https://github.com/Jikarinka/kannabotv2/blob/4931979eddb7e0522a1af38cf966db8d8fb063de/config.js#L63)
-- Owner Name [Here](https://github.com/Jikarinka/kannabotv2/blob/4931979eddb7e0522a1af38cf966db8d8fb063de/config.js#L65)
-- Bot Name [Here](https://github.com/Jikarinka/kannabotv2/blob/4931979eddb7e0522a1af38cf966db8d8fb063de/config.js#L64)
+- Owner Number [Here](https://github.com/ChataOfc/YaeMiko/blob/4931979eddb7e0522a1af38cf966db8d8fb063de/config.js#L63)
+- Owner Name [Here](https://github.com/ChataOfc/YaeMiko/blob/4931979eddb7e0522a1af38cf966db8d8fb063de/config.js#L65)
+- Bot Name [Here](https://github.com/ChataOfc/YaeMiko/blob/4931979eddb7e0522a1af38cf966db8d8fb063de/config.js#L64)
 ---------
 
 ## ```Heroku Buildpack```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jikarinka/KannaBOT-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ChataOfc/Yaemiko)
 
 | BuildPack | LINK |
 |--------|--------|
@@ -83,11 +83,11 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/Jikarinka/Kannabotv2/
-$ cd Kannabotv2
+$ git clone https://github.com/ChataOfc/Yaemiko/
+$ cd YaeMiko
 $ npm i 
 ```
-If error try using yarn instead of npm, see [here](https://github.com/Jikarinka/Kannabotv2#if-npm-install-failed--try--using-yarn-instead-of-npm)
+If error try using yarn instead of npm, see [here](https://github.com/ChataOfc/Yaemiko#if-npm-install-failed--try--using-yarn-instead-of-npm)
 ```bash
 $ node .
 ```
@@ -120,14 +120,14 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & KANNABOT-MD]
+[ INSTALLING NODEJS & YAEMIKO]
 
 ```bash
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Jikarinka/kannabotv2/
-cd Kannabotv2
+git clone https://github.com/ChataOfc/Yaemiko/
+cd YaeMiko
 npm install
 npm update
 ```
@@ -142,8 +142,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Jikarinka/kannabotv2/
-cd Kannabotv2
+git clone https://github.com/ChataOfc/Yaemiko/
+cd YaeMiko
 npm install
 npm update
 ```
@@ -232,18 +232,19 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 
 
 ## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/Jikarinka)
-* [`My parents`](https://github.com/Jikarinka)
-* [`All Friends`](https://github.com/Jikarinka)
-* [`All Contributors`](https://github.com/Jikarinka)
-* [`All Creator Bot`](https://github.com/Jikarinka)
+* [`Allah SWT`](https://github.com/ChataOfc)
+* [`My parents`](https://github.com/ChataOfc)
+* [`All Friends`](https://github.com/ChataOfc)
+* [`All Contributors`](https://github.com/ChataOfc)
+* [`All Creator Bot`](https://github.com/ChataOfc)
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Nurutomo`](https://github.com/nurutomi)
 * [`BochilGaming`](https://github.com/bochilgaming)
 * [`KannaChan`](http://github.com/kannachann)
+* [`Me`](https://github.com/ChataOfc)
 
 ## ```Recode By 🐾```
-[![kannachann](https://github.com/Jikarinka.png?size=100)](http://github.com/kannachann)
+[![Chata](https://github.com/ChataOfc.png?size=100)](http://github.com/kannachann)
 
 ## ```Fixed By 🐾```
 [![Rominaru](https://github.com/Rominaru.png?size=100)](http://github.com/Rominaru)
