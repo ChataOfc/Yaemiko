@@ -40,7 +40,7 @@
 | **Fast Respon** |[✔️](https://github.com/ChataOfc) |
 | **No Internet** |[✔️](https://github.com/ChataOfc) |
 | **Simple** |[✔️](https://github.com/ChataOfc) |
-| **Button template** |[✔️](https://github.com/ChataOfc |
+| **Button template** |[✔️](https://github.com/ChataOfc) |
 | **Multi Device** |[✔️](https://github.com/ChataOfc) |
 ---------
 #### FITUR 📍
